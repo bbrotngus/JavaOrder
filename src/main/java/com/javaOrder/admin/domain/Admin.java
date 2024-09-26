@@ -25,7 +25,7 @@ public class Admin {
 	@Column(name = "a_code")
 	private String adminCode;
 	
-	@Column(name = "a_name")
+	@Column(name = "a_name", length = 50)
 	private String adminName;
 	
 	@Column(name = "a_id")

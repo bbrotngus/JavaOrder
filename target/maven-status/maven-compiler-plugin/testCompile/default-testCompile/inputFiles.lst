@@ -1,0 +1,16 @@
+/Users/dobby/Desktop/coding/springdeveloper/project/github/JavaOrder/src/test/java/com/javaOrder/JavaOrderApplicationTests.java
+/Users/dobby/Desktop/coding/springdeveloper/project/github/JavaOrder/src/test/java/com/javaOrder/admin/dashBoard/vo/DashboardTests.java
+/Users/dobby/Desktop/coding/springdeveloper/project/github/JavaOrder/src/test/java/com/javaOrder/admin/member/domain/MemberTests.java
+/Users/dobby/Desktop/coding/springdeveloper/project/github/JavaOrder/src/test/java/com/javaOrder/admin/product/service/CategoryServiceTest.java
+/Users/dobby/Desktop/coding/springdeveloper/project/github/JavaOrder/src/test/java/com/javaOrder/admin/product/service/ProductServiceTest.java
+/Users/dobby/Desktop/coding/springdeveloper/project/github/JavaOrder/src/test/java/com/javaOrder/admin/promotion/domain/PromotionTest.java
+/Users/dobby/Desktop/coding/springdeveloper/project/github/JavaOrder/src/test/java/com/javaOrder/admin/reply/domain/ReplyTest.java
+/Users/dobby/Desktop/coding/springdeveloper/project/github/JavaOrder/src/test/java/com/javaOrder/board/domain/BoardTests.java
+/Users/dobby/Desktop/coding/springdeveloper/project/github/JavaOrder/src/test/java/com/javaOrder/common/kakaopay/domain/PayTests.java
+/Users/dobby/Desktop/coding/springdeveloper/project/github/JavaOrder/src/test/java/com/javaOrder/common/orders/domain/OrdersTests.java
+/Users/dobby/Desktop/coding/springdeveloper/project/github/JavaOrder/src/test/java/com/javaOrder/common/orders/orderItem/domain/OrderItemTests.java
+/Users/dobby/Desktop/coding/springdeveloper/project/github/JavaOrder/src/test/java/com/javaOrder/member/cart/domain/CartItemTests.java
+/Users/dobby/Desktop/coding/springdeveloper/project/github/JavaOrder/src/test/java/com/javaOrder/member/cart/domain/CartTests.java
+/Users/dobby/Desktop/coding/springdeveloper/project/github/JavaOrder/src/test/java/com/javaOrder/member/product/domain/ProductTests.java
+/Users/dobby/Desktop/coding/springdeveloper/project/github/JavaOrder/src/test/java/com/javaOrder/notice/domain/NoticesTests.java
+/Users/dobby/Desktop/coding/springdeveloper/project/github/JavaOrder/src/test/java/com/javaOrder/product/ProductApplicationTests.java

@@ -7,7 +7,6 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.test.annotation.Rollback;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.javaOrder.admin.product.domain.Category;
@@ -17,7 +16,6 @@ import com.javaOrder.admin.product.repository.ProductRepository;
 
 @SpringBootTest
 @Transactional
-@Rollback(value = false)
 public class ProductServiceTest {
 
     @Autowired

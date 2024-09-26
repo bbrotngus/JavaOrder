@@ -26,7 +26,7 @@ public class Member {
 	@Column(name = "m_code")
 	private String memberCode;
 	
-	@Column(name = "m_name")
+	@Column(name = "m_name", length = 10)
 	private String memberName;
 	
 	@Column(name = "m_id")

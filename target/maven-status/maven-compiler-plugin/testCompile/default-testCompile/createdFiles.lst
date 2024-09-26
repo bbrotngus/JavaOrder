@@ -1,0 +1,15 @@
+com/javaOrder/member/cart/domain/CartTests.class
+com/javaOrder/common/orders/orderItem/domain/OrderItemTests.class
+com/javaOrder/common/orders/domain/OrdersTests.class
+com/javaOrder/common/kakaopay/domain/PayTests.class
+com/javaOrder/JavaOrderApplicationTests.class
+com/javaOrder/admin/product/service/ProductServiceTest.class
+com/javaOrder/admin/member/domain/MemberTests.class
+com/javaOrder/product/ProductApplicationTests.class
+com/javaOrder/board/domain/BoardTests.class
+com/javaOrder/admin/dashBoard/vo/DashboardTests.class
+com/javaOrder/member/cart/domain/CartItemTests.class
+com/javaOrder/member/product/domain/ProductTests.class
+com/javaOrder/admin/reply/domain/ReplyTest.class
+com/javaOrder/admin/product/service/CategoryServiceTest.class
+com/javaOrder/admin/promotion/domain/PromotionTest.class
